@@ -1,1 +1,1 @@
-print('A totally new and exciting feature!')
+print('A totally new and exciting')
